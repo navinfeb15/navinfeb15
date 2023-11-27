@@ -63,6 +63,6 @@ When I'm not coding, you can often find me gaming, watching movies or just spend
 ----------
 ## 😊 Here's a meme to make your day
 
-random meme:
+
 ![Random Meme](https://random-memer.navinrajaraja.repl.co/)
 
