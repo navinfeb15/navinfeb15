@@ -1,7 +1,12 @@
-# Navin Raja K
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"> </p>
 
+<center>
 
-### I'm an aspiring Python developer and programmer, with expertise in web development, automation, data analysis and more. I have an eagerness to expand my skills and create intuitive solutions.
+# Hey there, I'm Navin.
+
+</center>
+
+#### I'm an aspiring Python developer and programmer, with expertise in web development, automation, data analysis and more. I have an eagerness to expand my skills and create intuitive solutions.
 
 ----------
 
