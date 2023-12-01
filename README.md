@@ -5,7 +5,7 @@
 <h1>Hey there, I'm Navin.</h1>
   <h3>I'm an aspiring Python developer and programmer, with expertise in web development, automation, data analysis and more. I have an eagerness to expand my skills and create intuitive solutions.</h3>
 </div>
-
+ 
 ----------
 
 # 💫 About Me:
