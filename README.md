@@ -51,6 +51,9 @@ When I'm not coding, you can often find me gaming, watching movies or just spend
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=navinfeb15&repo=portfolio&&theme=radical)](https://github.com/navinfeb15/portfolio)
 
 ----------
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+----------
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=navinfeb15&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
