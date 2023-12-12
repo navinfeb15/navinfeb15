@@ -54,9 +54,9 @@ When I'm not coding, you can often find me gaming, watching movies or just spend
 <!--START_SECTION:waka-->
 
 ```txt
-Other      27 hrs 1 min    ████████████████████▒░░░░   81.15 %
-Python     6 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
-Text       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Other      26 hrs 52 mins  ██████████████████████░░░   88.32 %
+Python     3 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+Text       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
