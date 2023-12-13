@@ -61,6 +61,9 @@ Markdown   0 secs          ░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+<!--START_SECTION:SHOW_SHORT_INFO -->
+
+<!--END_SECTION:SHOW_SHORT_INFO -->
 ----------
 # 📊 GitHub Stats:
 
