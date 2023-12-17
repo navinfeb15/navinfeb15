@@ -52,8 +52,7 @@ When I'm not coding, you can often find me gaming, watching movies or just spend
 
 ----------
 <!--START_SECTION:waka-->
-<!--START_SECTION:SECTION_NAME -->
-<!--START_SECTION:SECTION_NAME -->
+
 ```txt
 Other      14 hrs 11 mins  ██████████████████▒░░░░░░   73.69 %
 Python     4 hrs 56 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
@@ -62,9 +61,8 @@ Markdown   2 mins          ░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<!--START_SECTION:SECTION_NAME -->
-
-<!--END_SECTION:SHOW_SHORT_INFO -->
+<!--START_SECTION:CODE_LANG -->
+<!--START_SECTION:CODE_LANG -->
 ----------
 # 📊 GitHub Stats:
 
